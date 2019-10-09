@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<puzzle>
+	<position ID="0">
+		<row ID="0">
+			<token ID="0">10</token>
+			<token ID="1">8</token>
+			<token ID="2">10</token>
+		</row>
+		<row ID="1">
+			<token ID="0">4</token>
+			<token ID="1">1</token>
+			<token ID="2">1</token>
+			<token ID="3">5</token>
+		</row>
+		<row ID="2">
+			<token ID="0">1</token>
+			<token ID="1">3</token>
+			<token ID="2">6</token>
+			<token ID="3">3</token>
+			<token ID="4">1</token>
+			<token ID="5">3</token>
+			<token ID="6">1</token>
+		</row>
+		<row ID="3">
+			<token ID="0">1</token>
+			<token ID="1">3</token>
+			<token ID="2">1</token>
+			<token ID="3">1</token>
+			<token ID="4">1</token>
+			<token ID="5">3</token>
+			<token ID="6">1</token>
+		</row>
+		<row ID="4">
+			<token ID="0">1</token>
+			<token ID="1">4</token>
+			<token ID="2">1</token>
+			<token ID="3">1</token>
+		</row>
+		<row ID="5">
+			<token ID="0">4</token>
+			<token ID="1">5</token>
+			<token ID="2">5</token>
+			<token ID="3">4</token>
+			<token ID="4">1</token>
+		</row>
+		<row ID="6">
+			<token ID="0">1</token>
+			<token ID="1">4</token>
+			<token ID="2">1</token>
+			<token ID="3">1</token>
+			<token ID="4">7</token>
+			<token ID="5">4</token>
+		</row>
+		<row ID="7">
+			<token ID="0">1</token>
+			<token ID="1">12</token>
+		</row>
+		<row ID="8">
+			<token ID="0">1</token>
+			<token ID="1">8</token>
+			<token ID="2">6</token>
+			<token ID="3">3</token>
+		</row>
+		<row ID="9">
+			<token ID="0">1</token>
+			<token ID="1">1</token>
+			<token ID="2">1</token>
+			<token ID="3">2</token>
+			<token ID="4">3</token>
+			<token ID="5">9</token>
+		</row>
+		<row ID="10">
+			<token ID="0">4</token>
+			<token ID="1">6</token>
+			<token ID="2">1</token>
+			<token ID="3">5</token>
+			<token ID="4">1</token>
+		</row>
+		<row ID="11">
+			<token ID="0">1</token>
+			<token ID="1">4</token>
+			<token ID="2">3</token>
+			<token ID="3">6</token>
+			<token ID="4">1</token>
+		</row>
+		<row ID="12">
+			<token ID="0">1</token>
+			<token ID="1">5</token>
+			<token ID="2">4</token>
+			<token ID="3">1</token>
+			<token ID="4">3</token>
+			<token ID="5">4</token>
+			<token ID="6">1</token>
+		</row>
+		<row ID="13">
+			<token ID="0">4</token>
+			<token ID="1">3</token>
+			<token ID="2">2</token>
+			<token ID="3">1</token>
+			<token ID="4">1</token>
+		</row>
+		<row ID="14">
+			<token ID="0">6</token>
+			<token ID="1">2</token>
+			<token ID="2">10</token>
+			<token ID="3">1</token>
+			<token ID="4">1</token>
+		</row>
+		<row ID="15">
+			<token ID="0">1</token>
+			<token ID="1">5</token>
+			<token ID="2">1</token>
+			<token ID="3">1</token>
+			<token ID="4">1</token>
+		</row>
+		<row ID="16">
+			<token ID="0">4</token>
+			<token ID="1">5</token>
+			<token ID="2">6</token>
+			<token ID="3">4</token>
+			<token ID="4">1</token>
+		</row>
+		<row ID="17">
+			<token ID="0">2</token>
+			<token ID="1">1</token>
+			<token ID="2">3</token>
+			<token ID="3">2</token>
+			<token ID="4">1</token>
+			<token ID="5">1</token>
+			<token ID="6">2</token>
+			<token ID="7">1</token>
+		</row>
+		<row ID="18">
+			<token ID="0">1</token>
+			<token ID="1">1</token>
+			<token ID="2">1</token>
+			<token ID="3">1</token>
+			<token ID="4">1</token>
+			<token ID="5">1</token>
+		</row>
+		<row ID="19">
+			<token ID="0">2</token>
+			<token ID="1">1</token>
+			<token ID="2">1</token>
+			<token ID="3">1</token>
+			<token ID="4">1</token>
+		</row>
+		<row ID="20">
+			<token ID="0">3</token>
+			<token ID="1">1</token>
+			<token ID="2">2</token>
+			<token ID="3">3</token>
+			<token ID="4">2</token>
+			<token ID="5">1</token>
+		</row>
+		<row ID="21">
+			<token ID="0">3</token>
+			<token ID="1">1</token>
+			<token ID="2">1</token>
+			<token ID="3">1</token>
+		</row>
+		<row ID="22">
+			<token ID="0">3</token>
+			<token ID="1">2</token>
+			<token ID="2">1</token>
+			<token ID="3">1</token>
+			<token ID="4">3</token>
+			<token ID="5">1</token>
+			<token ID="6">1</token>
+			<token ID="7">1</token>
+		</row>
+		<row ID="23">
+			<token ID="0">2</token>
+			<token ID="1">1</token>
+			<token ID="2">2</token>
+			<token ID="3">2</token>
+			<token ID="4">3</token>
+			<token ID="5">1</token>
+			<token ID="6">2</token>
+			<token ID="7">1</token>
+		</row>
+		<row ID="24">
+			<token ID="0">2</token>
+			<token ID="1">2</token>
+			<token ID="2">2</token>
+			<token ID="3">2</token>
+			<token ID="4">6</token>
+			<token ID="5">3</token>
+		</row>
+		<row ID="25">
+			<token ID="0">3</token>
+			<token ID="1">1</token>
+			<token ID="2">2</token>
+			<token ID="3">2</token>
+			<token ID="4">1</token>
+			<token ID="5">2</token>
+			<token ID="6">1</token>
+		</row>
+		<row ID="26">
+			<token ID="0">4</token>
+			<token ID="1">1</token>
+			<token ID="2">1</token>
+			<token ID="3">1</token>
+			<token ID="4">2</token>
+			<token ID="5">2</token>
+			<token ID="6">4</token>
+			<token ID="7">1</token>
+		</row>
+		<row ID="27">
+			<token ID="0">4</token>
+			<token ID="1">1</token>
+			<token ID="2">1</token>
+			<token ID="3">1</token>
+			<token ID="4">4</token>
+			<token ID="5">7</token>
+			<token ID="6">1</token>
+		</row>
+		<row ID="28">
+			<token ID="0">13</token>
+			<token ID="1">7</token>
+			<token ID="2">4</token>
+		</row>
+		<row ID="29">
+			<token ID="0">30</token>
+		</row>
+	</position>
+	<position ID="1">
+		<row ID="0">
+			<token ID="0">13</token>
+			<token ID="1">14</token>
+		</row>
+		<row ID="1">
+			<token ID="0">2</token>
+			<token ID="1">1</token>
+			<token ID="2">1</token>
+			<token ID="3">1</token>
+			<token ID="4">2</token>
+			<token ID="5">11</token>
+		</row>
+		<row ID="2">
+			<token ID="0">2</token>
+			<token ID="1">1</token>
+			<token ID="2">1</token>
+			<token ID="3">1</token>
+			<token ID="4">1</token>
+			<token ID="5">3</token>
+			<token ID="6">5</token>
+		</row>
+		<row ID="3">
+			<token ID="0">3</token>
+			<token ID="1">2</token>
+			<token ID="2">1</token>
+			<token ID="3">2</token>
+			<token ID="4">1</token>
+			<token ID="5">1</token>
+			<token ID="6">4</token>
+		</row>
+		<row ID="4">
+			<token ID="0">1</token>
+			<token ID="1">1</token>
+			<token ID="2">1</token>
+			<token ID="3">1</token>
+			<token ID="4">1</token>
+			<token ID="5">1</token>
+			<token ID="6">2</token>
+		</row>
+		<row ID="5">
+			<token ID="0">1</token>
+			<token ID="1">2</token>
+			<token ID="2">1</token>
+			<token ID="3">1</token>
+			<token ID="4">2</token>
+			<token ID="5">1</token>
+			<token ID="6">6</token>
+		</row>
+		<row ID="6">
+			<token ID="0">1</token>
+			<token ID="1">1</token>
+			<token ID="2">1</token>
+			<token ID="3">2</token>
+			<token ID="4">2</token>
+			<token ID="5">1</token>
+			<token ID="6">3</token>
+			<token ID="7">2</token>
+		</row>
+		<row ID="7">
+			<token ID="0">1</token>
+			<token ID="1">1</token>
+			<token ID="2">1</token>
+			<token ID="3">1</token>
+			<token ID="4">3</token>
+			<token ID="5">2</token>
+		</row>
+		<row ID="8">
+			<token ID="0">1</token>
+			<token ID="1">1</token>
+			<token ID="2">1</token>
+			<token ID="3">1</token>
+			<token ID="4">1</token>
+			<token ID="5">3</token>
+			<token ID="6">2</token>
+		</row>
+		<row ID="9">
+			<token ID="0">1</token>
+			<token ID="1">1</token>
+			<token ID="2">1</token>
+			<token ID="3">1</token>
+			<token ID="4">1</token>
+			<token ID="5">1</token>
+			<token ID="6">1</token>
+			<token ID="7">7</token>
+		</row>
+		<row ID="10">
+			<token ID="0">1</token>
+			<token ID="1">2</token>
+			<token ID="2">3</token>
+			<token ID="3">1</token>
+			<token ID="4">4</token>
+			<token ID="5">2</token>
+		</row>
+		<row ID="11">
+			<token ID="0">1</token>
+			<token ID="1">2</token>
+			<token ID="2">1</token>
+			<token ID="3">1</token>
+			<token ID="4">1</token>
+			<token ID="5">3</token>
+			<token ID="6">1</token>
+			<token ID="7">2</token>
+		</row>
+		<row ID="12">
+			<token ID="0">1</token>
+			<token ID="1">1</token>
+			<token ID="2">3</token>
+			<token ID="3">1</token>
+			<token ID="4">3</token>
+			<token ID="5">5</token>
+			<token ID="6">6</token>
+		</row>
+		<row ID="13">
+			<token ID="0">1</token>
+			<token ID="1">1</token>
+			<token ID="2">1</token>
+			<token ID="3">2</token>
+			<token ID="4">4</token>
+			<token ID="5">1</token>
+			<token ID="6">3</token>
+			<token ID="7">1</token>
+		</row>
+		<row ID="14">
+			<token ID="0">1</token>
+			<token ID="1">3</token>
+			<token ID="2">10</token>
+			<token ID="3">3</token>
+			<token ID="4">1</token>
+		</row>
+		<row ID="15">
+			<token ID="0">1</token>
+			<token ID="1">1</token>
+			<token ID="2">2</token>
+			<token ID="3">3</token>
+			<token ID="4">4</token>
+			<token ID="5">3</token>
+			<token ID="6">1</token>
+		</row>
+		<row ID="16">
+			<token ID="0">1</token>
+			<token ID="1">1</token>
+			<token ID="2">4</token>
+			<token ID="3">1</token>
+			<token ID="4">5</token>
+			<token ID="5">4</token>
+		</row>
+		<row ID="17">
+			<token ID="0">1</token>
+			<token ID="1">7</token>
+			<token ID="2">5</token>
+			<token ID="3">1</token>
+			<token ID="4">1</token>
+			<token ID="5">3</token>
+		</row>
+		<row ID="18">
+			<token ID="0">3</token>
+			<token ID="1">5</token>
+			<token ID="2">1</token>
+			<token ID="3">2</token>
+			<token ID="4">1</token>
+			<token ID="5">1</token>
+			<token ID="6">1</token>
+			<token ID="7">1</token>
+			<token ID="8">4</token>
+		</row>
+		<row ID="19">
+			<token ID="0">1</token>
+			<token ID="1">4</token>
+			<token ID="2">3</token>
+			<token ID="3">1</token>
+			<token ID="4">5</token>
+			<token ID="5">1</token>
+			<token ID="6">1</token>
+			<token ID="7">1</token>
+			<token ID="8">2</token>
+		</row>
+		<row ID="20">
+			<token ID="0">1</token>
+			<token ID="1">6</token>
+			<token ID="2">6</token>
+			<token ID="3">3</token>
+			<token ID="4">3</token>
+		</row>
+		<row ID="21">
+			<token ID="0">1</token>
+			<token ID="1">12</token>
+			<token ID="2">7</token>
+		</row>
+		<row ID="22">
+			<token ID="0">4</token>
+			<token ID="1">6</token>
+			<token ID="2">1</token>
+			<token ID="3">7</token>
+		</row>
+		<row ID="23">
+			<token ID="0">1</token>
+			<token ID="1">1</token>
+			<token ID="2">6</token>
+			<token ID="3">1</token>
+			<token ID="4">1</token>
+			<token ID="5">2</token>
+			<token ID="6">1</token>
+		</row>
+		<row ID="24">
+			<token ID="0">1</token>
+			<token ID="1">2</token>
+			<token ID="2">1</token>
+			<token ID="3">1</token>
+			<token ID="4">1</token>
+			<token ID="5">8</token>
+			<token ID="6">2</token>
+			<token ID="7">1</token>
+		</row>
+		<row ID="25">
+			<token ID="0">3</token>
+			<token ID="1">1</token>
+			<token ID="2">1</token>
+			<token ID="3">1</token>
+			<token ID="4">1</token>
+			<token ID="5">1</token>
+		</row>
+		<row ID="26">
+			<token ID="0">3</token>
+			<token ID="1">2</token>
+			<token ID="2">1</token>
+			<token ID="3">6</token>
+			<token ID="4">2</token>
+			<token ID="5">3</token>
+		</row>
+		<row ID="27">
+			<token ID="0">2</token>
+			<token ID="1">2</token>
+			<token ID="2">1</token>
+			<token ID="3">1</token>
+			<token ID="4">2</token>
+			<token ID="5">2</token>
+		</row>
+		<row ID="28">
+			<token ID="0">2</token>
+			<token ID="1">1</token>
+			<token ID="2">4</token>
+			<token ID="3">1</token>
+			<token ID="4">2</token>
+		</row>
+		<row ID="29">
+			<token ID="0">7</token>
+			<token ID="1">3</token>
+			<token ID="2">4</token>
+			<token ID="3">8</token>
+		</row>
+	</position>
+</puzzle>

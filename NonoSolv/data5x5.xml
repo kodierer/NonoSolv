@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<puzzle>
+	<position ID="0">
+		<row ID="0">
+			<token ID="0">1</token>
+			<token ID="1">3</token>
+		</row>
+		<row ID="1">
+			<token ID="0">1</token>
+			<token ID="1">1</token>
+		</row>
+		<row ID="2">
+			<token ID="0">3</token>
+		</row>
+		<row ID="3">
+			<token ID="0">1</token>
+		</row>
+		<row ID="4">
+			<token ID="0">3</token>
+		</row>
+	</position>
+	<position ID="1">
+		<row ID="0">
+			<token ID="0">2</token>
+		</row>
+		<row ID="1">
+			<token ID="0">1</token>
+		</row>
+		<row ID="2">
+			<token ID="0">1</token>
+			<token ID="1">1</token>
+			<token ID="2">1</token>
+		</row>
+		<row ID="3">
+			<token ID="0">1</token>
+			<token ID="1">3</token>
+		</row>
+		<row ID="4">
+			<token ID="0">2</token>
+			<token ID="1">1</token>
+		</row>
+	</position>
+</puzzle>
